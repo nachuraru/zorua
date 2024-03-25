@@ -20,13 +20,11 @@ h3 { font-size:1.5rem; }
 h4 { font-size:1.25rem; }
 h5 { font-size:1rem; }
 h6 { font-size:1rem; }
-
 p, ol, ul { margin:1rem 0; }
-nav ol, nav ul { list-style:none; padding:0; }
-
 p:first-child, ol:first-child, ul:first-child, h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child { margin-top:0; }
 p:last-child, ol:last-child, ul:last-child, h1:last-child, h2:last-child, h3:last-child, h4:last-child, h5:last-child, h6:last-child { margin-bottom:0; }
 p:only-child, ol:only-child, ul:only-child, h1:only-child, h2:only-child, h3:only-child, h4:only-child, h5:only-child, h6:only-child { margin:0; }
+nav ol, nav ul { list-style:none; padding:0; }
 
 code, pre, kbd, samp { font-family:ui-monospace,monospace; font-size:inherit; }
 
